@@ -5,6 +5,7 @@
   <h2>Glosary of terms</h2>
   </head>
   <body>
+    <h1>A</h1>
     <ul>
       <p><b>Acceso directo:</b> Es un icono que permite abrir más fácilmente un determinado programa o archivo.</p> 
       <p><b>Acrobat:</b> Programa de Adobe que permite capturar documentos y verlos en su apariencia original. Acrobat trabaja con archivos PDF.</p>
