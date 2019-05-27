@@ -7,9 +7,9 @@
   <body>
     <h1>A</h1>
     <ul>
-      <a href="#uno">AA-AI</a>
-      <a href="#dos">AL-AO</a>
-      <a href="#tres">AP-AZ</a>
+      <a href="#uno">AA-AI</a><br/>
+      <a href="#dos">AL-AO</a><br/>
+      <a href="#tres">AP-AZ</a><br/>
       <a name="uno"></a>
       <p><b>Acceso directo:</b> Es un icono que permite abrir más fácilmente un determinado programa o archivo.</p> 
       <p><b>Acrobat:</b> Programa de Adobe que permite capturar documentos y verlos en su apariencia original. Acrobat trabaja con archivos PDF.</p>
