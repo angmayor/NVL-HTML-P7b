@@ -6,7 +6,7 @@
   </head>
   <body>
     <ul>
-      <p><mp>Acceso directo:</mp> Es un icono que permite abrir más fácilmente un determinado programa o archivo.</p> 
+      <p><b>Acceso directo:</b> Es un icono que permite abrir más fácilmente un determinado programa o archivo.</p> 
       <p><mp>Acrobat:</mp> Programa de Adobe que permite capturar documentos y verlos en su apariencia original. Acrobat trabaja con archivos PDF.</p>
       <p><mp>ADSL:</mp> Asymmetric Digital SubscriberLine. Tecnología para transmitir información digital a elevados anchos de banda.</p> 
       <p><mp>AGP:</mp> puerto acelerador de gráficos. Permite correr velozmente archivos gráficos tridimensionales.</p> 
